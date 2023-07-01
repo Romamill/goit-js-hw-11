@@ -2,7 +2,7 @@ import axios from 'axios';
 
 export default class NewGetPictures {
   #BASE_URL = 'https://pixabay.com/api/';
-  #API_KEY = '37603582-92143e20137f7c1d3caa92753';
+  #API_KEY = '37990722-3d7325777fa7dcec3ffe4a675';
 
   query = null;
   page = 1;
